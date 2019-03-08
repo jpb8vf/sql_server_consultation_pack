@@ -1,1 +1,0 @@
-# sql_server_consultation_pack
